@@ -1,2 +1,2 @@
 # Rainbow-Song
-For songs about rainbows
+A song about rainbows in the key of E major
